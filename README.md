@@ -1,7 +1,7 @@
-# abilis
+# Abilis
 Virtual assistant for visually impaired people
 
-Recruitment project for 1st year.
+Recruitment project for 1st year
 
 Work on:
 
