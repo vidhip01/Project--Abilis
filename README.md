@@ -5,7 +5,6 @@ Recruitment project for 1st year
 
 Work on:
 
-Object Detection.
+Object Detection & generating a voice feedback afterwards, classyfying the class of the object.
 
-Path segmentation.
-
+Image segmentation.
