@@ -1,9 +1,4 @@
 
-"""
-Created on Apr 28 2021
-
-
-"""
 
 import numpy as np
 import os
