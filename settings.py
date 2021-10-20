@@ -60,7 +60,7 @@ else:
 
 """
 background	    0   [0, 0, 0]
-bike_lane	    1   [255, 128, 0]
+bike_lane	    1   [255, 125, 0]
 caution_zone	2   [255, 0, 0]
 crosswalk	    3   [255, 0, 255]
 guide_block	    4   [255, 255, 0]
